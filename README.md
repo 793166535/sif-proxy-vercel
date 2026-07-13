@@ -1,2 +1,0 @@
-# sif-proxy-vercel
-sif
